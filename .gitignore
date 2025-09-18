@@ -1,0 +1,53 @@
+# Python environment
+env/
+venv/
+.envmrz/
+.deployenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+/staticfiles/
+media/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Test / temporary files
+*.tmp
+*.bak
+*.swp
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Env files with secrets
+.env
+.env.local
+.env.*.local
+ 
